@@ -15,6 +15,6 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "<h1>POC-1: DevSecOps Java App Deployed via Maven, SonarQube, OWASP, & Trivy!</h1>";
+        return "<h1>Sandeep's POC-1 YAYYYYYYYYYYYYYYYYY!</h1> <h1>POC-1: DevSecOps Java App Deployed via Maven, SonarQube, OWASP, & Trivy!</h1>";
     }
 }
